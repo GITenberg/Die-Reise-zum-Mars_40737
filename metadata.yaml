@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40803'
     url: http://www.gutenberg.org/2009/agents/40803
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40737#Die-Reise-zum-Mars
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2012-09-12'
 gutenberg_type: Text
